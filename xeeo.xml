@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="library" method="upgrade" version="0.3.0">
+<extension type="library" method="upgrade" version="0.3.1">
     <name>Xeeo Addon Library</name>
     <libraryname>xeeo</libraryname>
-    <author>Raul Geana</author>
+    <author>xeeo</author>
     <creationDate>March 2015</creationDate>
     <copyright>Copyright (C) 2015</copyright>
     <license>
@@ -11,7 +11,7 @@
     <authorEmail>geana.raul@icloud.com</authorEmail>
     <version>0.1.0</version>
     <description>
-        Useful stuff that Joomla leaks with.
+        Useful stuff that Joomla lacks.
     </description>
     <files>
         <folder>get</folder>
