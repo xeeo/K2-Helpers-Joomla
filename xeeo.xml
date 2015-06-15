@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="0.3.0">
+    <name>Xeeo Addon Library</name>
+    <libraryname>xeeo</libraryname>
+    <author>Raul Geana</author>
+    <creationDate>March 2015</creationDate>
+    <copyright>Copyright (C) 2015</copyright>
+    <license>
+        http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+    </license>
+    <authorEmail>geana.raul@icloud.com</authorEmail>
+    <version>0.1.0</version>
+    <description>
+        Useful stuff that Joomla leaks with.
+    </description>
+    <files>
+        <folder>get</folder>
+        <folder>core</folder>
+        <folder>helper</folder>
+    </files>
+</extension>
